@@ -12,7 +12,7 @@
 
 
 
-<div align="center">
+<div align="border">
  <a href="https://github.com/leticiarodriguesm", >
  
  <img altura="180em" src="https://github-readme-stats.vercel.app/api?username=leticiarodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
