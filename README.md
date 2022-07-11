@@ -5,9 +5,8 @@
 
 <br>
 🎓 Graduando Analise e Desenvolvimento de Sistemas<br>
-⚙️ Op. Service Desk - Accenture <br>
 💻 Aprendendo Numpy, Git, MySQL, JS, Pipeline <br>
-✨ Me especializando em DevOps <br>
+✨ Me especializando em Dev Back End <br>
 <br>
 
 
