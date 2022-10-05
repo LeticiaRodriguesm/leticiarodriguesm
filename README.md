@@ -5,8 +5,8 @@
 
 <br>
 🎓 Graduando Analise e Desenvolvimento de Sistemas<br>
-💻 Aprendendo Numpy, Git, MySQL, JS, Pipeline <br>
-✨ Me especializando em Dev Back End <br>
+💻 Aprendendo SQL, Phyton e JS <br>
+✨ Aspirando criação de Jogos Digitais <br>
 <br>
 
 
