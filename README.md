@@ -5,8 +5,8 @@
 
 <br>
 🎓 Graduando Analise e Desenvolvimento de Sistemas<br>
-💻 Aprendendo SQL, Phyton e JS <br>
-✨ Aspirando criação de Jogos Digitais <br>
+💻 Aprendendo HTML, CSS e JAVASCRIPT <br>
+✨ Aspirando Front End <br>
 <br>
 
 
